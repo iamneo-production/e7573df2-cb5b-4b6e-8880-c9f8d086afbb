@@ -1,0 +1,65 @@
+.logoImage{
+    position : absolute ;
+    left: 2.5% ;
+}
+
+.errorStyle{
+    font-size : 13px ;
+     color : red ;
+}
+
+.inputStyle{
+    border-radius : 5px ;
+     width:200px ;
+      height : 25px
+}
+
+.textAreaStyle{
+    border-radius : 10px ;
+     width:350px ;
+      height : 50px
+}
+
+.navbarStyle{
+    display: flex ;
+    background-color: black;
+    width : 100% ;
+    height : 5% ;
+    justify-content: space-around ;
+}
+
+.navbarLinkStyle{
+    align-items: center;
+    align-content: center;
+    align-self: center;
+    height : 100%
+}
+
+.loginBackgroundStyle{
+    position : absolute ;
+    width : 100%;
+    height : 100% ;
+    background-image : URL('https://img.freepik.com/free-psd/top-view-notebook-with-different-rulers_23-2148458917.jpg?w=740&t=st=1664538266~exp=1664538866~hmac=893b254699af0f757c3ec95a063344623d81326de3c49d2ae52e3feca2a5f4ab') ;
+    background-size : cover
+}
+
+.welcomeBackgroundStyle{
+    background-image : URL('https://img.freepik.com/premium-vector/abacus-soroban-learning-mental-arithmetic-kids-concept-illustration-japanese-system-mental-math_192280-51.jpg?w=740') !important;
+
+} 
+
+.academyImageStyle{
+    
+    width : 25%;
+    height : 30% ;
+    background-image : URL('https://c0.wallpaperflare.com/preview/135/67/741/academic-calculation-calculator-compute.jpg') ;
+    background-size : cover ;
+    float : left ;
+    padding: 1%;
+    margin: 1%;
+
+}
+
+.tableStyles{
+    border: 1px solid black ;
+}
